@@ -51,7 +51,6 @@ src/
 - **vazia()** → verifica se a pilha está vazia.
 
 ---
-
 ## Exemplo de Execução (Main.java)
 
 ```java
@@ -89,9 +88,12 @@ atendendo cli001 - maria silva - duvida sobre produto
 fila de atendimento
 cli002 | joao souza | reclamacao de servico
 
+
+## Como Compilar e Executar
+
+```bash
 javac *.java
 java Main
-
 
 Informações do Trabalho
 
@@ -108,3 +110,5 @@ Kaue Fontoura
 Matheus Bernardi
 
 Rafael Maluf
+
+
