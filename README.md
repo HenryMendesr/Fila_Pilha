@@ -88,8 +88,9 @@ fila de atendimento
 cli002 | joao souza | reclamacao de servico
 
 
-```java
+## Como Compilar e Executar
 
+```bash
 javac *.java
 java Main
 
