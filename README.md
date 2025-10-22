@@ -73,6 +73,8 @@ public class Main {
     }
 }
 
+Saída esperada:
+
 historico de solicitacoes
 req002 | manutencao preventiva | 2024-08-20 11:00
 req001 | instalacao de software | 2024-08-20 10:30
@@ -87,12 +89,9 @@ atendendo cli001 - maria silva - duvida sobre produto
 fila de atendimento
 cli002 | joao souza | reclamacao de servico
 
-
-## Como Compilar e Executar
-
-```bash
 javac *.java
 java Main
+
 
 Informações do Trabalho
 
