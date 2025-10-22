@@ -72,6 +72,7 @@ public class Main {
         atendimento.mostrar();
     }
 }
+
 historico de solicitacoes
 req002 | manutencao preventiva | 2024-08-20 11:00
 req001 | instalacao de software | 2024-08-20 10:30
